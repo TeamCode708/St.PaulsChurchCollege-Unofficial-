@@ -1,0 +1,119 @@
+body {
+	text-align: center;
+}
+
+#welcome {
+	background-color: azure;
+}
+
+#gallery {
+	background-color: white;
+}
+
+#alumini {
+	background-color: azure;
+}
+
+#activity {
+	background-color: white;
+}
+
+#course {
+	background-color: azure;
+}
+
+#whatsNew {
+	background-color: white;
+}
+
+#aboutUs {
+	background-color: azure;
+}
+
+#feedback {
+	background-color: white;
+}
+
+#contact {
+	background-color: azure;
+}
+
+.my_nav_bar {
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+
+#logo {
+	margin-left: 600px;
+}
+
+.line {
+	height: 6px;
+	background-color: black;
+	width: 70px;
+	margin: 8px auto;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
+
+.gallery-images {
+	height: 320px;
+	width: 320px;
+	border-width: 2px;
+	border: solid;
+	padding: 5px;
+}
+
+.activity-image {
+	height: 320px;
+	width: 330px;
+	border: 2px solid;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.mainDiv {
+	float: left;
+	width: auto;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+#awardsID {
+	padding-bottom: 10px;
+}
+
+.new_li {
+	margin-top: 13px;
+}
+
+.new_li h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.list-group {
+	background-color: azure;
+}
+
+.mainDiv h2{
+	background-color: aliceblue;
+	border-bottom: 1px solid black;
+}
+
+.img {
+	height: 300px;
+	width: 300px;
+}
